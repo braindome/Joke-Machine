@@ -1,0 +1,23 @@
+html {
+    background-image: linear-gradient(to right, purple, whitesmoke);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: lightgray;
+}
+
+header {
+    border-style: solid;
+    border-radius: 20px;
+    background-color: black;
+    margin: 5vw;
+    margin-top: 2vh;
+    
+}
+
+div {
+    border-style: solid;
+    border-radius: 20px;
+    padding: 50px;
+    margin: 5vw;
+    background-color: black;
+}
